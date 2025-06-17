@@ -29,25 +29,25 @@ Then confirm Docker is installed:
 
 ```bash
 docker --version
-
+```
 
 ## ⚙️ Build and Run the Tool
 
 ### Step 1: Clone this Repository
-
+```bash
 git clone https://github.com/yourusername/FunVFPredGUI.git
 cd FunVFPredGUI
-
+```
 
 ### Step 2: Build the Docker Image
-
+```bash
 docker build -t funvfpred-app .
-
+```
 
 ### Step 3: Run the App
-
+```bash
 docker run -p 8501:8501 funvfpred-app
-
+```
 
 Then open your browser at:
 🔗 http://localhost:8501
@@ -67,4 +67,4 @@ Results can be previewed in the browser and downloaded as a CSV file.
 🧑‍💻 Developed by **Ekjot Kaur**  
  
 📬 [ekjot@gmail.com]
-```
+
