@@ -62,9 +62,11 @@ After uploading a FASTA file, the app displays a table with predictions for each
 Results can be previewed in the browser and downloaded as a CSV file.
 
 
-## ✉️ Contact
+👥 Team Contribution
+Model development and core script creation: Ekjot Kaur
 
-🧑‍💻 Developed by **Ekjot Kaur**  
- 
-📬 [ekjot@gmail.com]
+🧑‍💻 GUI Interface development, Docker containerization, and GitHub deployment: Abhishek Khatri
+under the supervision of Dr. Vishal Acharya
+
+
 
