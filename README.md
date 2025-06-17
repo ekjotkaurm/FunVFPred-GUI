@@ -35,7 +35,7 @@ docker --version
 
 ### Step 1: Clone this Repository
 ```bash
-git clone https://github.com/yourusername/FunVFPredGUI.git
+git clone https://github.com/ekjotkaurm/FunVFPredGUI.git
 cd FunVFPredGUI
 ```
 
